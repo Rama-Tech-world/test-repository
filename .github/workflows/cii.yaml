@@ -10,5 +10,5 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - run: sleep 200
+      - run: sleep 100
       - run: echo "Deploying"
